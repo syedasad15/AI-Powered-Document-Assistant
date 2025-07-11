@@ -10,8 +10,7 @@ from chains import create_qa_chain
 from langchain_core.documents import Document
 
 # Load API key from .env
-load_dotenv("key.env")
-openai_api_key = os.getenv("OPENAI_API_KEY")
+openai_api_key = st.secrets["api_keys"]["openai"]
 if not openai_api_key:
     st.error("❌ OPENAI_API_KEY not found in .env file!")
 else:
