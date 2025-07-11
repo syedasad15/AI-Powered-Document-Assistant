@@ -3,4 +3,5 @@ langchain
 pdfplumber
 langchain-community
 langchain_huggingface
-faiss
+faiss-cpu
+
