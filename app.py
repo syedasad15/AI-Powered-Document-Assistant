@@ -113,7 +113,7 @@ if uploaded_file:
                         "💬 Ask a question about your PDF:",
                         height=200,
                         max_chars=1000,
-                        placeholder="Type your question here (e.g., 'What is the main topic of the document?')",
+                        placeholder="Type your question here",
                         key="query_input"
                     )
                 # Wrap submit button in a div with class to hide it
