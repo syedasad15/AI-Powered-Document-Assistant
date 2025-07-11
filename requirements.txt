@@ -4,4 +4,5 @@ pdfplumber
 langchain-community
 langchain_huggingface
 faiss-cpu
+openai
 
