@@ -1,0 +1,31 @@
+[
+
+  {
+    "question": "What quantum property allows qubits to exist in superpositions of 0 and 1?",
+    "expected_answer": "Superposition"
+  },
+  {
+    "question": "Which quantum algorithm mentioned in the article threatens RSA encryption?",
+    "expected_answer": "Shor’s algorithm"
+  },
+  {
+    "question": "What is one application of quantum computing in threat detection mentioned in the article?",
+    "expected_answer": "Quantum machine learning enhances anomaly detection in network traffic"
+  },
+  {
+    "question": "List two quantum computing applications in cybersecurity in a single sentence.",
+    "expected_answer": "Quantum computing enables quantum key distribution for secure key exchange and threat detection through quantum machine learning."
+  },
+  {
+    "question": "List two benefits of quantum computing for cybersecurity in a single sentence.",
+    "expected_answer": "Quantum computing provides unconditional security through quantum key distribution and future-proofs systems with post-quantum cryptography."
+  },
+  {
+    "question": "List two challenges of implementing quantum computing in cybersecurity in a single sentence.",
+    "expected_answer": "Quantum computing faces high error rates due to decoherence and requires significant infrastructure changes for post-quantum cryptography."
+  },
+  {
+    "question": "What is one outcome reported in the Singapore-based bank’s quantum-resistant cryptographic system case study?",
+    "expected_answer": "Zero quantum-related security breaches in 12 months"
+  }
+]
